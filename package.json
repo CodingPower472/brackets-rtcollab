@@ -6,7 +6,7 @@
     "categories": ["general", "editing"],
     "engines": ">=23",
     "contributors": [
-        {"name": "Simon Nilsson", "email": "sim.nilsson@gmail.com", "url": "https://github.com/simphax"},
+        {"name": "Simon Nilsson", "email": "sim.nilsson@gmail.com", "url": "https://github.com/simphax"}
     ],
     "license": "MIT"
 }
